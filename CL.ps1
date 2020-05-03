@@ -37,4 +37,4 @@ Function SearchAndReplace{
 }
 
 
-SearchAndReplace -InputFile 'CL Test.txt' -IndexToBeReplace 3 -InputString 'C.69081534.001040.01' -OutputFile 'properties1.txt' 
+SearchAndReplace -InputFile 'C:\CL Test.txt' -IndexToBeReplace 3 -InputString 'C.69081534.001040.01' -OutputFile 'C:\properties1.txt' 
